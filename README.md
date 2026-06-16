@@ -3,11 +3,11 @@ Business Analyst Portfolio Project | Smart Loan Eligibility &amp; Risk Assessmen
 Intelligent Loan Eligibility & Risk Assessment Decision Platform
 Project Overview
 
-This Business Analyst portfolio project demonstrates the end-to-end analysis and documentation of a banking loan assessment solution.
+#This Business Analyst portfolio project demonstrates the end-to-end analysis and documentation of a banking loan assessment solution.
 
 The proposed system evaluates loan applications using multiple financial factors including CIBIL score, salary verification, existing EMI obligations, repayment history, and debt-to-income ratio to generate a customer risk score and support informed lending decisions.
 
-Business Problem
+###Business Problem
 
 Traditional loan approval processes rely heavily on CIBIL scores, resulting in the rejection of potentially eligible customers. Manual verification also increases processing time and operational effort.
 
@@ -32,12 +32,11 @@ AS-IS & TO-BE Process Mapping
 User Stories
 Acceptance Criteria
 Wireframes
-SQL Analysis
 UAT Scenarios
 Business Benefits
 Skills Demonstrated
 
-Business Analysis | Requirement Gathering | BRD | FRD | RTM | Process Mapping | User Stories | Acceptance Criteria | SQL | UAT | Banking Domain Analysis
+Business Analysis | Requirement Gathering | BRD | FRD | RTM | Process Mapping | User Stories | Acceptance Criteria | UAT | Banking Domain Analysis
 
 Author
 
