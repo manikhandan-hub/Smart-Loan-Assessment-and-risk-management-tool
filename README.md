@@ -7,11 +7,11 @@ Project Overview
 
 The proposed system evaluates loan applications using multiple financial factors including CIBIL score, salary verification, existing EMI obligations, repayment history, and debt-to-income ratio to generate a customer risk score and support informed lending decisions.
 
-###Business Problem
+#Business Problem
 
 Traditional loan approval processes rely heavily on CIBIL scores, resulting in the rejection of potentially eligible customers. Manual verification also increases processing time and operational effort.
 
-Proposed Solution
+#Proposed Solution
 
 A Smart Loan Eligibility & Risk Assessment Platform that:
 
